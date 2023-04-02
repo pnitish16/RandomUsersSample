@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="error_message">No Data found</string>
+</resources>
